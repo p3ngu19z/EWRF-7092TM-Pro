@@ -19,8 +19,8 @@ EWRF e7092TM_v12
 - Power supply：DC5-24V  
 - Supply current：75mA（25mW）/110mA（200mW）/200mA（500mW）  
 - Weight：2.4g  
-- Standard size:26.0x26.0mm  
-- Mounting holes:20x20mm  
+- Standard size: 26.0x26.0mm  
+- Mounting holes: 20x20mm  
 
 ### User Guide
 1. LED indication  
